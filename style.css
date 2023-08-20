@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    margin: 0;
+    position: sticky;
+
+    width: 100%;
+    top: 0px;
+    background-color: white;
+    
+}
+.heading img{
+    width: 130px;
+    height: 50px;
+    padding: 20px 40px;
+    margin-left: 50px;
+   
+    
+}
+.menu{
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+    list-style: none;
+}
+.menu li ul{
+    float: left;
+    margin-left: 30px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    list-style: none;
+   
+}
+.back{
+    background: url(the-town-bg-01.jpg) center fixed;
+    /* position: relative;
+    bottom:90px; */
+    background-repeat: no-repeat;
+    height:550px;
+    width: 100%;
+    background-size: cover;
+    
+ 
+   
+   
+}
+.back h2{
+    text-align: center;
+   padding-top: 200px;
+  
+   
+    color: aliceblue;
+    font-size: 2pc;
+   font-family: 'Noto Sans', sans-serif;
+   text-shadow: 2px 2px 2px black;
+} 
+.read{
+    padding: 20px;
+}
+.read img{
+    height: 350px;
+    width: 500px;
+    padding: 80px 50px 0px 80px;
+    display: flex;
+    float: left;
+    
+}
+
+.read p{
+    padding: 10px 20px;
+   font-size: 23px;
+    justify-content: space-between;
+    padding-top: 50px;
+    color: gray;
+    line-height: 25px;
+}
+.read h2{
+   padding-top:100px ;
+   color:#3496d8;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+justify-content: space-between;
+
+}
+.read p1{
+    border: 2px solid #3496d8;
+    border-radius: 25px ;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #3496d8;
+    color: white;
+    margin-left: 10px;
+    line-height: 70px;
+    
+}
+.content{
+    display: flex;
+    margin-left: 30px;
+}
+
+.content1{
+    text-align: center;
+    padding: 60px 50px;
+    color: gray;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content1 h2{
+    padding: 10px 10px 10px 10px;
+    color: #3496d8;
+    line-height: 100px;
+}
+.content1 img{
+    color: #3496d8;
+    background-color: #3496d8;
+}
+.work{
+    text-align: center;
+    font-weight: 20px;
+}
+.work h1{
+    color: #3496d8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    line-height: 120px;
+}
+.work p{
+    color: grey;
+    line-height: 30px;
+}
+.more_im{
+    /* display: flex; */
+    padding: 50px 80px;
+    /* margin-left: 100px; */
+    justify-content: space-between;
+   
+}
+    
+
+
+    .footer{
+        width: 100%;
+      
+        margin-top: 70px;
+        padding: 0 220px;
+        background: url(the-town-bg-02.jpg) center fixed;
+        background-size: cover;
+        background-color: #3496d8;
+        height: 700px;
+    }
+    .footer h1 {
+        color: white;
+        font-size: 3pc;
+        padding-top: 100px;
+        text-decoration: underline 8px;
+    }
+    .footer p{
+        padding-top:90px ;
+        color: white;
+        line-height: 30px;
+        font-size: 19px;
+    }
+    .footer img{
+      border-radius: 10px;
+      margin-top: 40px;
+      
+     
+      
+    }
+    .im2{
+        float: left;
+        padding-top: 20px;
+       
+        
+    
+}
+     
+    .im3{
+      margin-left: 528px;
+      padding-top: 20px;
+    
+       
+
+    }
+    p1{
+        text-align: center;
+        color: white;
+        padding-top: 300px;
+        padding-left: 90px;
+        
+    }
+    .im3{
+        
+        padding-top: 20px;
+      
+         
+  
+      }
+      .input{
+        margin-left: 90px;
+      }
+       
